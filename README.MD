@@ -70,9 +70,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/rafael-coelho1984/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/coelhoensina/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a href="https://www.instagram.com/coelhoensina/">Instagram</a>
+&nbsp;|&nbsp;
+    <a href="https://www.youtube.com/@CoelhoEnsina">Youtube</a></p>
 </p>
 <br/><br/>
 <p>
