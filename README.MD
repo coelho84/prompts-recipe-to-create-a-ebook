@@ -62,7 +62,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/187073233?v=4"
     />
     <p>&nbsp&nbsp&nbspRafael Coelho<br>
     &nbsp&nbsp&nbsp
@@ -70,7 +70,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/rafael-coelho1984/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/coelhoensina/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -79,4 +79,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/coelho84)
+⌨️ com 💜 por [Rafael Coelho](https://github.com/coelho84)
