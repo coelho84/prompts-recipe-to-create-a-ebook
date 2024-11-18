@@ -28,8 +28,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título deste ebook sobre o tema Grafana, voltado para o nicho de monitoramento, o título deve ser chamativo, criativo, épico e curto, com uma temática misturada tecnológica e profissional, me liste 5 variações de títulos|
-| conteúdo | Me dê dicas sobre quais assuntos abordar no ebook, lembrando que esse primeiro ebook será para pessoas leigas sobre o Grafana. |
+|  título  | Crie um título para ser utilizado em um e-book sobre o tema Grafana, voltado para o nicho de monitoramento, o título deve ser chamativo, criativo, épico e curto, com uma temática misturada tecnológica e profissional, me liste 5 variações de títulos|
+| conteúdo | Me dê dicas sobre quais assuntos abordar no e-book, lembrando que esse primeiro e-book será para pessoas leigas sobre o Grafana. |
 | conteúdo | Após os temas sugeridos os prompts foram pedindo o texto de cada tópico: "Crie um texto simples e profissional com a definição do que é o grafana?" e os demais prompts foram semelhantes, mudando apenas o tópico |
 
 
@@ -49,7 +49,7 @@ Bing Image Creator：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- e-book gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
