@@ -5,12 +5,12 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto E-BOOK Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/coelho84/prompts-recipe-to-create-a-ebook/blob/main/output/e-book%20-%20Grafana%20na%20Prática%20-%20O%20Aliado%20do%20Monitoramento%20Profissional%20-%20Vol.%201.pdf" title="Visualizar o PDF Agora"> 📕Clique aqui para ler</a>
