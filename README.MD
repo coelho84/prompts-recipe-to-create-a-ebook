@@ -1,8 +1,3 @@
-
-
--------
-
-
 <p align="center">
 <img 
     src="./assets/cover03.png"
