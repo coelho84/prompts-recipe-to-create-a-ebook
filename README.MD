@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Bing Image Creator](www.bing.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,22 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
+|  título  | Crie um título deste ebook sobre o tema Grafana, voltado para o nicho de monitoramento, o título deve ser chamativo, criativo, épico e curto, com uma temática misturada tecnológica e profissional, me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Bing Image Creator：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Imagine a professional image that presents a clean, polished, elegant and technological layout for a professional audience, with a dark background and bright data visualizations such as charts and dashboards in vibrant blue, green, red and orange colors. Add subtle patterns of integrated circuit boards in the background for a tech-inspired feel, and subtle overlays of icons representing data, analytics and connectivity ensure the design conveys professionalism and innovation. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagem principal da capa gerada pelo Bing Image Creator
+- Imagens extraidas do Grafana
+- Imagens do Mascote extraido do site do Grafana
 
 ## 📚 Materiais
 
